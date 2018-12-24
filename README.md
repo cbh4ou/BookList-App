@@ -1,2 +1,2 @@
 # BookList-App
-A simple inbrowser today app
+A simple in-browser book lister
